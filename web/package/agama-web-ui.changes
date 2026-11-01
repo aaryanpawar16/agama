@@ -1,4 +1,12 @@
 -------------------------------------------------------------------
+Sun Nov  1 05:38:17 UTC 2026 - Aaryan Pawar <pawararyan989@gmail.com>
+
+- Move the form to configure an LVM volume group to the new form
+  stack. The name is checked against what LVM accepts, and the
+  disks are chosen from a list, or from a dialog showing their
+  details (gh#agama-project/agama#4110).
+
+-------------------------------------------------------------------
 Fri Oct 30 09:20:02 UTC 2026 - David Díaz <dgonzalez@suse.com>
 
 - Drop the final period from the login error title
